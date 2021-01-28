@@ -3,7 +3,7 @@
 * Você pode usar e moldar esse bot MAS NÃO REMOVA os creditos.
 * Evite remover coisas como o Link do legião, obrigado!
 */
-const { decryptMedia } = require('@open-wa/wa-decrypt')
+const { decryptMedia } = require('@open-wa/wa-descrypt')
 const fs = require('fs-extra')
 const axios = require('axios')
 const sharp = require('sharp')
